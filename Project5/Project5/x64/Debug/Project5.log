@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\user\source\repos\Project5\Project5\FileName.cpp(8,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  main.c
+  Project5.vcxproj -> C:\Users\user\source\repos\Project5\x64\Debug\Project5.exe
