@@ -1,2 +1,2 @@
-# Learn-C-
+# Learn C++
 added week 3
